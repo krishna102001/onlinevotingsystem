@@ -2,9 +2,9 @@
   <!-- Logo -->
   <a href="#" class="logo " style="background-color: #717A83">
     <!-- mini logo for sidebar mini 50x50 pixels -->
-    <span class="logo-mini" style="background-color: #717A83 "><b>O</b>VS</span>
+    <span class="logo-mini" style="background-color: #717A83 "><b>O</b>VMS</span>
     <!-- logo for regular state and mobile devices -->
-    <span class="logo-lg " style="background-color:#717A83 ;color:white ; font-size: 22px; font-family:Times  "><marquee behavior="scroll" direction="left">Online Voting System</marquee></span>
+    <span class="logo-lg " style="background-color:#717A83 ;color:white ; font-size: 22px; font-family:Times  "><marquee behavior="scroll" direction="left">Online Voting Management System</marquee></span>
     
 
   </a>

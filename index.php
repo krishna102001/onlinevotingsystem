@@ -46,7 +46,7 @@
             <a
               class="custom-link mb-2 mb-lg-0 me-lg-3"
               href="login_form.php"
-              >Candidate Login</a
+              >Voter Login</a
             >
             <a class="custom-link"  href="admin/index.php"
               >Admin Login</a

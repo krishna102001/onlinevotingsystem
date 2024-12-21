@@ -127,10 +127,10 @@ function getRow(id){
     dataType: 'json',
     success: function(response){
       $('.id').val(response.id);
-      $('#edit_firstname').val(response.firstname);
-      $('#edit_lastname').val(response.lastname);
+      // $('#edit_firstname').val(response.fullname);
+      // $('#edit_lastname').val(response.lastname);
       $('#edit_password').val(response.password);
-      $('.fullname').html(response.firstname+' '+response.lastname);
+      $('.fullname').html(response.fullname);
     }
   });
 }

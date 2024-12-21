@@ -9,8 +9,8 @@
     }
 ?>
 <?php include 'includes/header.php'; ?>
-<body class="hold-transition login-page" style="background-color:#F1E9D2"> 
-<div class="login-box" style="background-color:#a69f8b ;color:white ; font-size: 22px; font-family:Times">
+<body class="hold-transition login-page" style="background-color:#D3D3D3"> 
+<div class="login-box" style="background-color:#a69f8b ;color:white ; font-size: 22px; font-family:Times; border: 2px solid black; padding:10px;">
   	<div class="login-logo" style="background-color:#a69f8b ;color:white ; font-size: 22px; font-family:Times  ">
   		<b> Online Voting System</b>
   	</div>
@@ -34,7 +34,7 @@
 				<div class="col-xs-4">
           			
 
-					<a class="btn btn-primary btn-block btn-curve" style="background-color: #4682B4 ;color:black ; font-size: 12px; font-family:Times" href="register.php"> Sign Up</a>
+					<a class="btn btn-primary btn-block btn-curve" style="background-color: #4682B4 ;color:black ; font-size: 12px; font-family:Times; margin-left:110px;" href="register.php"> Sign Up</a>
         		</div>
       		</div>
     	</form>
